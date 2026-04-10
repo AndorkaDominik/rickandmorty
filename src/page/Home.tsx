@@ -99,7 +99,7 @@ export default function Home() {
         <Card className="banner" mb="20">
           {/* SRC: https://upload.wikimedia.org/wikipedia/commons/b/b1/Rick_and_Morty.svg */}
           <img
-            src="/rick-and-morty/Rick_and_Morty.svg"
+            src="/rickandmorty/Rick_and_Morty.svg"
             alt="Rick and Morty Logo"
             className="logo"
           />
